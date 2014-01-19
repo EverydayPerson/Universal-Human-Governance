@@ -1,0 +1,5 @@
+This is the first Document of the Universal Human Governance Project
+Rule 0: There is one class of Member (Called Member) 
+Rule 1: All Members have the right to fork this repository and edit any documents within
+Rule 2: Any Member can submit a pull request for his edits to be incorporated. This action must be agreed upon in a 50%+1 majority vote with at least half the members participating before it takes place.
+Rule 3: Members can eat whatever they like 
